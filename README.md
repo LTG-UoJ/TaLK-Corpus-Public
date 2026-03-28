@@ -57,22 +57,6 @@ TaLK-Corpus/
 
 ---
 
-## ❌ What This Repository Does Not Include
-
-This repository does **not** include:
-
-- Metadata files  
-- Transcriptions  
-- Tamil script annotations  
-- IPA annotations  
-- Roman transliterations  
-- Speaker demographic information  
-- Contact details  
-- Extra documentation containing personal information  
-
-This release is intentionally limited to **audio files only**.
-
----
 
 ## 🎯 Intended Use
 
