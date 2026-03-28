@@ -1,0 +1,80 @@
+TaLK Academic-Commercial Use Notice (TACUN)
+Version 1.0, 2026
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+"Dataset" refers to the TaLK-Corpus audio-only public release and associated documentation.
+"Academic Use" refers to non-commercial research, teaching, and educational purposes.
+"Commercial Use" refers to any use intended for commercial advantage or monetary compensation.
+"Notice" refers to this TaLK Academic-Commercial Use Notice (TACUN).
+"Licensor" refers to the creators and owners of the dataset, the TaLK-Corpus team / University of Jaffna.
+"Repository" refers to the public GitHub repository that distributes the audio-only release of TaLK-Corpus.
+
+2. ACADEMIC AND RESEARCH USE
+This dataset is released under the CC BY-NC 4.0 license for academic and research use.
+
+For academic and research use:
+a) You must provide proper attribution to the creators.
+b) You must cite the associated TaLK-Corpus paper in any publication or public work using the dataset.
+c) You may not use the dataset for commercial purposes.
+d) You must retain all copyright, license, and attribution notices.
+e) You must respect the privacy and ethical protections of participants.
+f) You may not attempt to identify, trace, or reveal the identity of any participant.
+
+3. COMMERCIAL USE
+Commercial use is not permitted under this public release.
+
+Commercial use requires:
+a) A separate written license agreement from the Licensor.
+b) Explicit written permission before any commercial deployment, resale, monetisation, or proprietary integration.
+c) Direct contact with the dataset owners using the official contact channel decided by the TaLK-Corpus team.
+
+4. DATA USAGE CONDITIONS
+All users of the dataset must:
+a) Use the dataset only in ways consistent with applicable laws, ethics, and institutional policies.
+b) Preserve participant privacy and dataset integrity.
+c) Not use the dataset for harmful, discriminatory, deceptive, or privacy-violating purposes.
+d) Not redistribute the dataset in a misleading way or remove attribution and license information.
+e) Clearly indicate when the dataset has been modified, filtered, or processed in derivative academic work.
+f) Accept that the audio-only public release does not include metadata, transcripts, or annotation files.
+
+5. ATTRIBUTION
+If you use this dataset, cite the associated paper as follows:
+
+@article{thillainathan_talk_corpus,
+  title={TaLK-Corpus: A Regionally Diverse Evaluation Set for Sri Lankan Tamil Speech},
+  author={Thillainathan, Adsajan and Kanthakumar, Nishanthini and Rasan, Nivethiga and Sarveswaran, Kengatharaiyer},
+  note={Please update the final publication year, venue, pages, and DOI based on the published version}
+}
+
+6. LICENSE BASIS
+The public dataset release is made available under:
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Users must comply with the terms of CC BY-NC 4.0 in addition to this notice.
+
+7. WARRANTY AND LIABILITY
+The dataset is provided "as is" without warranty of any kind, express or implied, including but not limited to warranties of accuracy, completeness, merchantability, fitness for a particular purpose, or non-infringement.
+
+The Licensor shall not be liable for any claim, damages, or other liability arising from the use of the dataset.
+
+8. TERMINATION
+Your rights under this notice and the applicable license terminate automatically if you violate these terms or the CC BY-NC 4.0 license conditions.
+
+Upon termination, you must stop using the dataset and delete copies where required by applicable law or institutional policy.
+
+9. ETHICS AND PRIVACY
+All participants provided informed consent before recording, and their identities were anonymised during dataset preparation.
+
+Users must not attempt re-identification, profiling, or disclosure of participant identities.
+
+10. CONTACT
+Academic inquiries: [ADD OFFICIAL EMAIL]
+Commercial licensing inquiries: [ADD OFFICIAL EMAIL]
+
+Copyright (c) 2026 TaLK-Corpus Team. All Rights Reserved.
+
+-------------------
+For the full CC BY-NC 4.0 license text, visit:
+https://creativecommons.org/licenses/by-nc/4.0/
