@@ -107,9 +107,6 @@ This dataset is released under the **Creative Commons Attribution-NonCommercial 
 
 If you use this dataset in your research, please cite the associated paper:
 
-**TaLK-Corpus: A Regionally Diverse Evaluation Set for Sri Lankan Tamil Speech**  
-Adsajan Thillainathan, Nishanthini Kanthakumar, Nivethiga Rasan, and Kengatharaiyer Sarveswaran
----
 ### BibTeX
 
 ```
