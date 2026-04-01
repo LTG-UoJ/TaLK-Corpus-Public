@@ -112,11 +112,12 @@ Adsajan Thillainathan, Nishanthini Kanthakumar, Nivethiga Rasan, and Kengatharai
 ---
 ### BibTeX
 
+```
 @inproceedings{talk_corpus,
   title={TaLK-Corpus: A Regionally Diverse Evaluation Set for Sri Lankan Tamil Speech},
   author={Thillainathan Adsajan , Kanthakumar Nishanthini ,  Rasan Nivethiga , and Sarveswaran Kengatharaiyer}
 }
-
+```
 
 ---
 
