@@ -1,7 +1,5 @@
 # TaLK-Corpus
 
-![TaLK-Corpus Paper Illustration](readme_images/paper_thumbnail.png)
-
 A regionally diverse **Sri Lankan Tamil speech dataset** created to support research in speech and language technology. This repository hosts the **audio-only public release** of the **TaLK-Corpus**.
 
 ---
@@ -41,8 +39,6 @@ This repository contains **only the audio files**.
 TaLK-Corpus/
 ├── audio/
 │   └── *.wav
-├── readme_images/
-│   └── paper_thumbnail.png
 ├── LICENSE
 └── README.md
 ```
@@ -117,7 +113,7 @@ Adsajan Thillainathan, Nishanthini Kanthakumar, Nivethiga Rasan, and Kengatharai
 ### BibTeX
 
 ```bibtex
-@article{talk_corpus,
+@inprocess{talk_corpus,
   title={TaLK-Corpus: A Regionally Diverse Evaluation Set for Sri Lankan Tamil Speech},
   author={Thillainathan Adsajan , Kanthakumar Nishanthini  Rasan , Nivethiga and Sarveswaran Kengatharaiyer},
   note={Please update the final publication year, venue, pages, and DOI based on the published version}
