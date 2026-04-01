@@ -109,12 +109,12 @@ If you use this dataset in your research, please cite the associated paper:
 
 **TaLK-Corpus: A Regionally Diverse Evaluation Set for Sri Lankan Tamil Speech**  
 Adsajan Thillainathan, Nishanthini Kanthakumar, Nivethiga Rasan, and Kengatharaiyer Sarveswaran
-
+---
 ### BibTeX
 
 @inproceedings{talk_corpus,
   title={TaLK-Corpus: A Regionally Diverse Evaluation Set for Sri Lankan Tamil Speech},
-  author={Thillainathan, Adsajan and Kanthakumar, Nishanthini and Rasan, Nivethiga and Sarveswaran, Kengatharaiyer}
+  author={Thillainathan Adsajan , Kanthakumar Nishanthini ,  Rasan Nivethiga , and Sarveswaran Kengatharaiyer}
 }
 
 
